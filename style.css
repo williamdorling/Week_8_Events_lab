@@ -1,5 +1,15 @@
 
- #button{
-    width: ;
+ button{
     color: blue;
+
  }
+
+body{
+    background-color: rgb(141, 219, 96);
+}
+
+#list{
+    color: rgb(5, 5, 5);
+}
+
+/* make completedList a different to the to do list  */
